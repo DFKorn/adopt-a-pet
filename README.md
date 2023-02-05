@@ -6,4 +6,4 @@ Adoption website that allows users to view all the adoptable pets of a particula
 * React
 * React Router v5
 
-### [Live](https://adopt-pet-codecademy.netlify.app/)
+### Live - [Adopt a Pet](https://adopt-pet-codecademy.netlify.app/)
